@@ -1,0 +1,46 @@
+/*// Online C++ compiler to run C++ program online
+#include <iostream>
+
+int main() {
+    // Write C++ code here
+    std::cout << "Hello world!";
+
+    return 0;
+}
+*/
+/*
+//To finde the area of a triangle
+#include<iostream>
+using namespace std;
+int main()
+{
+    //variables decleration and inplimantation
+    int base,hight;
+    float area;
+    cout<< "please enter the base of triangle "<<endl;
+    cin>>base;
+    cout<< "please enter the hight of triangle "<<endl;
+    cin>>hight;
+    area =0.5*base*hight;
+    cout<<"the area of the triangle is "<<area;
+
+    
+    return(0);
+}*/
+
+/*
+//write a program to finde the nth natural number
+#include<iostream>
+using namespace std;
+int main()
+{
+    int a=1,b=2,c=3,d=4,e=5,f=6 , sum;
+    sum=(a+b+c+d+e+f);
+    cout<<"the sum of a,b,c,d,e & f is "<<sum<<endl;
+    return(0);
+}
+
+*/
+
+/**/
+//write the program to finde the root of quadric equation
